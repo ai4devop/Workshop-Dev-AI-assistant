@@ -1,4 +1,4 @@
-# Lab AI4GEN : Dev AI assistant
+# WORKSHOP AI4GEN : Dev AI assistant
 Bienvenue dans cette formation basée sur l'enseignement des différentes possibilités d'un assistant IA, elle vous montrera comment votre IA peut vous assiter dans votre quotidien en tant que développeur.
 <br>
 Vous verrez plusieurs use cases qui peuvent s'averer utile
