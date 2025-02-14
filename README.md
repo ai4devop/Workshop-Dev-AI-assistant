@@ -1,4 +1,4 @@
-# Lab AI4GEN : Dev AI assistant
+# WORKSHOP AI4GEN : Dev AI assistant
 Welcome to this training based on teaching you the different possibilities of AI assistant, it will show you how your AI can assist you in you daily life as a coder.
 <br>
 You will see differents use cases where it can be useful
